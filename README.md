@@ -1,0 +1,27 @@
+- Playwright Automation Framework
+- This project is an end-to-end test automation framework built using Playwright and TypeScript.
+
+- Features
+- Page Object Model (POM)
+- Custom Fixtures
+- Data Driven Testing
+- Environment Configuration
+ - Screenshot Capture
+- HTML Report Generation
+- API Testing Support
+- Tech Stack
+- Playwright
+- TypeScript
+- Node.js
+- Project Structure
+- pages/
+- tests/
+- utils/
+- locators/
+- .github/workflows/
+- Installation
+- npm install
+- Run Tests
+- npm test
+- Author
+- Mayank Mishra QA Automation Engineer
